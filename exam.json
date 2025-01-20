@@ -1,0 +1,14 @@
+{
+  "exam": {
+    "title": "FCC Commercial Element 1",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is a requirement of all marine transmitting apparatus used aboard United States vessels?",
+        "options": ["Only equipment that has been certified by the FCC for Part 80 operations is authorized.", "Equipment must be type-accepted by the U.S. Coast Guard for maritime mobile use.", "Certification is required by the International Maritime Organization (IMO).", "Programming of all maritime channels must be performed by a licensed Marine Radio Operator."],
+        "answer": "Only equipment that has been certified by the FCC for Part 80 operations is authorized.",
+        "explanation": "explanation"
+      }
+    ]
+  }
+}
